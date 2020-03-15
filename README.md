@@ -14,7 +14,8 @@ Fill in your credential in [`my_cwru_token.py`](https://github.com/choH/DealEngi
 
 Note it take quite a while to complete the task, and you might need to adjust the `time.sleep()` wait time to accompany your internet environment. So for twerking around, maybe just try [google_group_scraper.ipynb](https://github.com/choH/DealEngine_CWRU_mailing_hack/blob/master/google_group_scraper.ipynb) in a cell-by-cell manner.
 
-You may expect a mailing list output at [`CWRU_scrapped_mailing_list.txt`](https://github.com/choH/DealEngine_CWRU_mailing_hack/blob/master/CWRU_scrapped_mailing_list.txt), now it has 1400+ `@case.edu` email account inside it, as the delivery of this take-home.
+You may expect a mailing list output at [`CWRU_scrapped_mailing_list.txt`](https://github.com/choH/DealEngine_CWRU_mailing_hack/blob/master/CWRU_scrapped_mailing_list.txt)~~, for the default setting it has 1400+ `@case.edu` email account inside it, as the delivery of this take-home~~.   
+(removed due to privacy concerns)
 
 ## Reflection
 
